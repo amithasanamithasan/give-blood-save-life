@@ -44,8 +44,10 @@
             </tr>
             <tr>
                 <th>Tools</th>
-                <td >Netbeans, Codeblocks, MatLab</td>
+                <td >HTML, CSS , JavaScript,Php Languages, Framework Laravel, Database: MYSQL   ,</td>
             </tr>
+
+
 
             </tbody>
         </table>
@@ -88,7 +90,7 @@
                 </div>
                 <div class="tab-pane" id="panel-353300">
                     <p>
-                        LinkedIn is a business and employment-oriented service that operates via websites and mobile apps. Founded on December 28, 2002, and launched on May 5, 2003, it is mainly used for professional networking. My LinkedIn account is <a href="https://www.linkedin.com/in/amit-hasan-24950522a/">https://www.linkedin.com/in/amit-hasan-24950522a/</a>
+                        LinkedIn is a business and employment-oriented service that operates via websites and mobile apps. Founded on December 28, 20021, and launched on May 5, 20023, it is mainly used for professional networking. My LinkedIn account is <a href="https://www.linkedin.com/in/amit-hasan-24950522a/">https://www.linkedin.com/in/amit-hasan-24950522a/</a>
                     </p>
                 </div>
                 
